@@ -3,13 +3,72 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 40vh;
+  height: 760px;
+  color: purple;
 }
 
 div {
   text-align: center;
 }
 
+h1 {
+margin-bottom: 20px;
+}
+
 button {
   margin-top: 20px;
 }
+
+.SignIn {
+  margin-top: 20px;
+}
+
+.Password {
+  margin-top: 20px;
+}
+
+.Password button {
+  background-color: purple;
+  color: white;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.Password button:hover {
+  background-color: red;
+  cursor: pointer;
+}
+
+.SignIn button {
+background-color: purple;
+font-size: 16px; 
+font-family: 'Roboto', sans-serif;
+border-radius: 5px;
+padding: 10px 20px;
+color: white;
+}
+
+.SignIn button:hover {
+  background-color: red;
+  cursor: pointer;
+}
+
+.CreateLogin {
+  margin-top: 20px;
+}
+
+.CreateLogin button {
+  background-color: purple;
+  font-size: 16px; 
+  font-family: 'Roboto', sans-serif;
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: white;
+  }
+
+  .CreateLogin button:hover {
+  background-color: red;
+  cursor: pointer;
+  }
