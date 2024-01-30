@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import Homepage from './js/homepage';
-import WorkDatabase from './js/wrk-database';
 
 function App() {
   const [page] = useState('homepage');
@@ -8,8 +7,6 @@ function App() {
   const renderPage = () => {
     if (page === 'homepage') {
       return <Homepage />;
-    } else if (page === 'work-database') { 
-      return <WorkDatabase />;
     }
     return null;
   };
