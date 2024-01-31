@@ -1,0 +1,700 @@
+[{
+  "_id": 1,
+  "name": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "middle_name": "A"
+  },
+  "date_added": "01/29/2024",
+  "salary_per_year": 60000,
+  "day_of_employment": "01/01/2023",
+  "last_day_of_employment": null,
+  "position": "Software Engineer",
+  "ex-employee": "no"
+},
+{
+  "_id": 2,
+  "name": {
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "middle_name": "M"
+  },
+  "date_added": "02/15/2024",
+  "salary_per_year": 70000,
+  "day_of_employment": "03/01/2023",
+  "last_day_of_employment": null,
+  "position": "Data Scientist",
+  "ex-employee": "no"
+},
+{
+  "_id": 3,
+  "name": {
+    "first_name": "Robert",
+    "last_name": "Johnson",
+    "middle_name": "L"
+  },
+  "date_added": "03/22/2024",
+  "salary_per_year": 75000,
+  "day_of_employment": "04/10/2023",
+  "last_day_of_employment": null,
+  "position": "Product Manager",
+  "ex-employee": "no"
+},
+{
+  "_id": 4,
+  "name": {
+    "first_name": "Sophie",
+    "last_name": "Turner",
+    "middle_name": "M"
+  },
+  "date_added": "02/10/2024",
+  "salary_per_year": 72000,
+  "day_of_employment": "03/01/2023",
+  "last_day_of_employment": null,
+  "position": "UI/UX Designer",
+  "ex-employee": "no"
+},
+{
+  "_id": 5,
+  "name": {
+    "first_name": "Olivia",
+    "last_name": "Johnson",
+    "middle_name": "R"
+  },
+  "date_added": "05/15/2024",
+  "salary_per_year": 78000,
+  "day_of_employment": "06/01/2023",
+  "last_day_of_employment": null,
+  "position": "Front-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 6,
+  "name": {
+    "first_name": "Lucas",
+    "last_name": "Roberts",
+    "middle_name": "B"
+  },
+  "date_added": "06/20/2024",
+  "salary_per_year": 85000,
+  "day_of_employment": "07/01/2023",
+  "last_day_of_employment": null,
+  "position": "Data Scientist",
+  "ex-employee": "no"
+},
+{
+  "_id": 7,
+  "name": {
+    "first_name": "Mia",
+    "last_name": "Bell",
+    "middle_name": "K"
+  },
+  "date_added": "07/25/2024",
+  "salary_per_year": 92000,
+  "day_of_employment": "08/01/2023",
+  "last_day_of_employment": null,
+  "position": "Software Engineer",
+  "ex-employee": "no"
+},
+{
+  "_id": 8,
+  "name": {
+    "first_name": "Alexander",
+    "last_name": "Ward",
+    "middle_name": "L"
+  },
+  "date_added": "08/30/2024",
+  "salary_per_year": 80000,
+  "day_of_employment": "09/01/2023",
+  "last_day_of_employment": null,
+  "position": "Product Manager",
+  "ex-employee": "no"
+},
+{
+  "_id": 9,
+  "name": {
+    "first_name": "Scarlett",
+    "last_name": "Fisher",
+    "middle_name": "M"
+  },
+  "date_added": "09/15/2024",
+  "salary_per_year": 75000,
+  "day_of_employment": "10/01/2023",
+  "last_day_of_employment": null,
+  "position": "UX Designer",
+  "ex-employee": "no"
+},
+{
+  "_id": 10,
+  "name": {
+    "first_name": "Carter",
+    "last_name": "Baker",
+    "middle_name": "J"
+  },
+  "date_added": "10/01/2024",
+  "salary_per_year": 78000,
+  "day_of_employment": "11/01/2023",
+  "last_day_of_employment": null,
+  "position": "Database Administrator",
+  "ex-employee": "no"
+},
+{
+  "_id": 11,
+  "name": {
+    "first_name": "Ethan",
+    "last_name": "Hill",
+    "middle_name": "S"
+  },
+  "date_added": "11/10/2024",
+  "salary_per_year": 85000,
+  "day_of_employment": "12/01/2023",
+  "last_day_of_employment": null,
+  "position": "Front-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 12,
+  "name": {
+    "first_name": "Emma",
+    "last_name": "Cruz",
+    "middle_name": "L"
+  },
+  "date_added": "12/15/2024",
+  "salary_per_year": 78000,
+  "day_of_employment": "01/01/2024",
+  "last_day_of_employment": null,
+  "position": "Back-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 13,
+  "name": {
+    "first_name": "Aiden",
+    "last_name": "Martinez",
+    "middle_name": "K"
+  },
+  "date_added": "01/20/2025",
+  "salary_per_year": 92000,
+  "day_of_employment": "02/01/2024",
+  "last_day_of_employment": null,
+  "position": "Data Scientist",
+  "ex-employee": "no"
+},
+{
+  "_id": 14,
+  "name": {
+    "first_name": "Ava",
+    "last_name": "Wright",
+    "middle_name": "P"
+  },
+  "date_added": "02/25/2025",
+  "salary_per_year": 80000,
+  "day_of_employment": "03/01/2024",
+  "last_day_of_employment": null,
+  "position": "Software Engineer",
+  "ex-employee": "no"
+},
+{
+  "_id": 15,
+  "name": {
+    "first_name": "Jackson",
+    "last_name": "Baker",
+    "middle_name": "E"
+  },
+  "date_added": "03/10/2025",
+  "salary_per_year": 75000,
+  "day_of_employment": "04/01/2024",
+  "last_day_of_employment": null,
+  "position": "UX Designer",
+  "ex-employee": "no"
+},
+{
+  "_id": 16,
+  "name": {
+    "first_name": "Sophia",
+    "last_name": "Hill",
+    "middle_name": "L"
+  },
+  "date_added": "04/15/2025",
+  "salary_per_year": 86000,
+  "day_of_employment": "05/01/2024",
+  "last_day_of_employment": null,
+  "position": "Product Manager",
+  "ex-employee": "no"
+},
+{
+  "_id": 17,
+  "name": {
+    "first_name": "Mason",
+    "last_name": "Clark",
+    "middle_name": "R"
+  },
+  "date_added": "05/01/2025",
+  "salary_per_year": 92000,
+  "day_of_employment": "06/01/2024",
+  "last_day_of_employment": null,
+  "position": "Database Administrator",
+  "ex-employee": "no"
+},
+{
+  "_id": 18,
+  "name": {
+    "first_name": "Scarlett",
+    "last_name": "Fisher",
+    "middle_name": "M"
+  },
+  "date_added": "06/10/2025",
+  "salary_per_year": 88000,
+  "day_of_employment": "07/01/2024",
+  "last_day_of_employment": null,
+  "position": "Front-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 19,
+  "name": {
+    "first_name": "Logan",
+    "last_name": "Diaz",
+    "middle_name": "J"
+  },
+  "date_added": "07/15/2025",
+  "salary_per_year": 78000,
+  "day_of_employment": "08/01/2024",
+  "last_day_of_employment": null,
+  "position": "Back-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 20,
+  "name": {
+    "first_name": "Isabella",
+    "last_name": "Knight",
+    "middle_name": "R"
+  },
+  "date_added": "08/20/2025",
+  "salary_per_year": 69000,
+  "day_of_employment": "09/01/2024",
+  "last_day_of_employment": null,
+  "position": "Database Administrator",
+  "ex-employee": "no"
+},
+{
+  "_id": 21,
+  "name": {
+    "first_name": "Carter",
+    "last_name": "Harper",
+    "middle_name": "K"
+  },
+  "date_added": "09/25/2025",
+  "salary_per_year": 80000,
+  "day_of_employment": "10/01/2024",
+  "last_day_of_employment": null,
+  "position": "Senior Engineer",
+  "ex-employee": "no"
+},
+{
+  "_id": 22,
+  "name": {
+    "first_name": "Olivia",
+    "last_name": "Adams",
+    "middle_name": "N"
+  },
+  "date_added": "10/10/2025",
+  "salary_per_year": 86000,
+  "day_of_employment": "11/01/2024",
+  "last_day_of_employment": null,
+  "position": "Data Analyst",
+  "ex-employee": "no"
+},
+{
+  "_id": 23,
+  "name": {
+    "first_name": "Ethan",
+    "last_name": "Evans",
+    "middle_name": "H"
+  },
+  "date_added": "11/15/2025",
+  "salary_per_year": 75000,
+  "day_of_employment": "12/01/2024",
+  "last_day_of_employment": null,
+  "position": "Front-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 24,
+  "name": {
+    "first_name": "Sophie",
+    "last_name": "Fisher",
+    "middle_name": "W"
+  },
+  "date_added": "12/20/2025",
+  "salary_per_year": 92000,
+  "day_of_employment": "01/01/2025",
+  "last_day_of_employment": null,
+  "position": "Back-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 25,
+  "name": {
+    "first_name": "Mia",
+    "last_name": "Ward",
+    "middle_name": "P"
+  },
+  "date_added": "01/10/2026",
+  "salary_per_year": 80000,
+  "day_of_employment": "02/01/2025",
+  "last_day_of_employment": null,
+  "position": "Software Engineer",
+  "ex-employee": "no"
+},
+{
+  "_id": 26,
+  "name": {
+    "first_name": "Elijah",
+    "last_name": "Turner",
+    "middle_name": "M"
+  },
+  "date_added": "02/15/2026",
+  "salary_per_year": 82000,
+  "day_of_employment": "03/01/2025",
+  "last_day_of_employment": null,
+  "position": "UI/UX Designer",
+  "ex-employee": "no"
+},
+{
+  "_id": 27,
+  "name": {
+    "first_name": "Emma",
+    "last_name": "Roberts",
+    "middle_name": "B"
+  },
+  "date_added": "03/22/2026",
+  "salary_per_year": 77000,
+  "day_of_employment": "04/01/2025",
+  "last_day_of_employment": null,
+  "position": "Back-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 28,
+  "name": {
+    "first_name": "Aiden",
+    "last_name": "Martinez",
+    "middle_name": "K"
+  },
+  "date_added": "04/30/2026",
+  "salary_per_year": 68000,
+  "day_of_employment": "05/01/2025",
+  "last_day_of_employment": null,
+  "position": "Senior Engineer",
+  "ex-employee": "no"
+},
+{
+  "_id": 29,
+  "name": {
+    "first_name": "Ava",
+    "last_name": "Wright",
+    "middle_name": "P"
+  },
+  "date_added": "05/15/2026",
+  "salary_per_year": 75000,
+  "day_of_employment": "06/01/2025",
+  "last_day_of_employment": null,
+  "position": "Software Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 30,
+  "name": {
+    "first_name": "Hazel",
+    "last_name": "Baker",
+    "middle_name": "E"
+  },
+  "date_added": "06/01/2026",
+  "salary_per_year": 82000,
+  "day_of_employment": "07/01/2025",
+  "last_day_of_employment": null,
+  "position": "UX Designer",
+  "ex-employee": "no"
+},
+{
+  "_id": 31,
+  "name": {
+    "first_name": "Sebastian",
+    "last_name": "Hill",
+    "middle_name": "L"
+  },
+  "date_added": "07/10/2026",
+  "salary_per_year": 77000,
+  "day_of_employment": "08/01/2025",
+  "last_day_of_employment": null,
+  "position": "Product Manager",
+  "ex-employee": "no"
+},
+{
+  "_id": 32,
+  "name": {
+    "first_name": "Olivia",
+    "last_name": "Adams",
+    "middle_name": "N"
+  },
+  "date_added": "08/15/2026",
+  "salary_per_year": 68000,
+  "day_of_employment": "09/01/2025",
+  "last_day_of_employment": null,
+  "position": "Data Analyst",
+  "ex-employee": "no"
+},
+{
+  "_id": 33,
+  "name": {
+    "first_name": "Ethan",
+    "last_name": "Evans",
+    "middle_name": "H"
+  },
+  "date_added": "09/01/2026",
+  "salary_per_year": 75000,
+  "day_of_employment": "10/01/2025",
+  "last_day_of_employment": null,
+  "position": "Front-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 34,
+  "name": {
+    "first_name": "Sophie",
+    "last_name": "Fisher",
+    "middle_name": "W"
+  },
+  "date_added": "10/10/2026",
+  "salary_per_year": 82000,
+  "day_of_employment": "11/01/2025",
+  "last_day_of_employment": null,
+  "position": "Back-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 35,
+  "name": {
+    "first_name": "Mia",
+    "last_name": "Ward",
+    "middle_name": "P"
+  },
+  "date_added": "11/15/2026",
+  "salary_per_year": 77000,
+  "day_of_employment": "12/01/2025",
+  "last_day_of_employment": null,
+  "position": "Database Administrator",
+  "ex-employee": "no"
+},
+{
+  "_id": 36,
+  "name": {
+    "first_name": "Ella",
+    "last_name": "Clark",
+    "middle_name": "R"
+  },
+  "date_added": "12/01/2026",
+  "salary_per_year": 90000,
+  "day_of_employment": "01/01/2026",
+  "last_day_of_employment": null,
+  "position": "Product Manager",
+  "ex-employee": "no"
+},
+{
+  "_id": 37,
+  "name": {
+    "first_name": "Logan",
+    "last_name": "Diaz",
+    "middle_name": "M"
+  },
+  "date_added": "01/10/2027",
+  "salary_per_year": 88000,
+  "day_of_employment": "02/01/2026",
+  "last_day_of_employment": null,
+  "position": "Back-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 38,
+  "name": {
+    "first_name": "Isabella",
+    "last_name": "Knight",
+    "middle_name": "R"
+  },
+  "date_added": "02/15/2027",
+  "salary_per_year": 78000,
+  "day_of_employment": "03/01/2026",
+  "last_day_of_employment": null,
+  "position": "Database Administrator",
+  "ex-employee": "no"
+},
+{
+  "_id": 39,
+  "name": {
+    "first_name": "Carter",
+    "last_name": "Harper",
+    "middle_name": "K"
+  },
+  "date_added": "03/22/2027",
+  "salary_per_year": 69000,
+  "day_of_employment": "04/01/2026",
+  "last_day_of_employment": null,
+  "position": "Front-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 40,
+  "name": {
+    "first_name": "Olivia",
+    "last_name": "Adams",
+    "middle_name": "N"
+  },
+  "date_added": "04/30/2027",
+  "salary_per_year": 80000,
+  "day_of_employment": "05/01/2026",
+  "last_day_of_employment": null,
+  "position": "UX Designer",
+  "ex-employee": "no"
+},
+{
+  "_id": 41,
+  "name": {
+    "first_name": "Ethan",
+    "last_name": "Evans",
+    "middle_name": "H"
+  },
+  "date_added": "05/15/2027",
+  "salary_per_year": 85000,
+  "day_of_employment": "06/01/2026",
+  "last_day_of_employment": null,
+  "position": "Data Scientist",
+  "ex-employee": "no"
+},
+{
+  "_id": 42,
+  "name": {
+    "first_name": "Sophia",
+    "last_name": "Hill",
+    "middle_name": "L"
+  },
+  "date_added": "06/01/2027",
+  "salary_per_year": 92000,
+  "day_of_employment": "07/01/2026",
+  "last_day_of_employment": null,
+  "position": "Software Engineer",
+  "ex-employee": "no"
+},
+{
+  "_id": 43,
+  "name": {
+    "first_name": "Mason",
+    "last_name": "Clark",
+    "middle_name": "R"
+  },
+  "date_added": "07/10/2027",
+  "salary_per_year": 88000,
+  "day_of_employment": "08/01/2026",
+  "last_day_of_employment": null,
+  "position": "Front-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 44,
+  "name": {
+    "first_name": "Scarlett",
+    "last_name": "Fisher",
+    "middle_name": "M"
+  },
+  "date_added": "08/15/2027",
+  "salary_per_year": 78000,
+  "day_of_employment": "09/01/2026",
+  "last_day_of_employment": null,
+  "position": "Back-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 45,
+  "name": {
+    "first_name": "Mia",
+    "last_name": "Ward",
+    "middle_name": "P"
+  },
+  "date_added": "09/01/2027",
+  "salary_per_year": 69000,
+  "day_of_employment": "10/01/2026",
+  "last_day_of_employment": null,
+  "position": "Database Administrator",
+  "ex-employee": "no"
+},
+{
+  "_id": 46,
+  "name": {
+    "first_name": "Ella",
+    "last_name": "Turner",
+    "middle_name": "M"
+  },
+  "date_added": "10/10/2027",
+  "salary_per_year": 82000,
+  "day_of_employment": "11/01/2026",
+  "last_day_of_employment": null,
+  "position": "UI/UX Designer",
+  "ex-employee": "no"
+},
+{
+  "_id": 47,
+  "name": {
+    "first_name": "Logan",
+    "last_name": "Roberts",
+    "middle_name": "B"
+  },
+  "date_added": "11/15/2027",
+  "salary_per_year": 77000,
+  "day_of_employment": "12/01/2026",
+  "last_day_of_employment": null,
+  "position": "Back-end Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 48,
+  "name": {
+    "first_name": "Ava",
+    "last_name": "Martinez",
+    "middle_name": "K"
+  },
+  "date_added": "12/01/2027",
+  "salary_per_year": 68000,
+  "day_of_employment": "01/01/2027",
+  "last_day_of_employment": null,
+  "position": "Senior Engineer",
+  "ex-employee": "no"
+},
+{
+  "_id": 49,
+  "name": {
+    "first_name": "Aiden",
+    "last_name": "Wright",
+    "middle_name": "P"
+  },
+  "date_added": "01/10/2028",
+  "salary_per_year": 75000,
+  "day_of_employment": "02/01/2027",
+  "last_day_of_employment": null,
+  "position": "Software Developer",
+  "ex-employee": "no"
+},
+{
+  "_id": 50,
+  "name": {
+    "first_name": "Olivia",
+    "last_name": "Baker",
+    "middle_name": "E"
+  },
+  "date_added": "02/15/2028",
+  "salary_per_year": 82000,
+  "day_of_employment": "03/01/2027",
+  "last_day_of_employment": null,
+  "position": "UX Designer",
+  "ex-employee": "no"
+}]

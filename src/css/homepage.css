@@ -55,11 +55,11 @@ color: white;
   cursor: pointer;
 }
 
-.CreateLogin {
+.Register {
   margin-top: 20px;
 }
 
-.CreateLogin button {
+.Register button {
   background-color: purple;
   font-size: 16px; 
   font-family: 'Roboto', sans-serif;
@@ -68,7 +68,7 @@ color: white;
   color: white;
   }
 
-  .CreateLogin button:hover {
+  .Register button:hover {
   background-color: red;
   cursor: pointer;
   }
